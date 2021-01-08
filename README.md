@@ -23,14 +23,19 @@
 8.是支持web socket和signal IR。
 9.是对于跨网站的请求的预防和保护机制。
 
+
+
 第三题，dot net core跟dot net比较有哪些更好的地方？
 1.是跨平台，它可以运行在三大操作系统上面，windows， Linux和MAC。
 2.是对架构本身安装没有依赖，因为所有的依赖都跟程序本身在一起。
 3.是dot net core处理请求的效率更高，能够处理更多的请求。
 4.是dot net core有更多的安装配置方法。
+
+
  
 第四题什么是meta packages？
 Meta packages是指包含所有ASP dot net code依赖的一个包。叫做Microsoft.AspNetCore
+
 
 
 第五题，don net core应用能够跟dot net 4.x架构一起工作吗？
