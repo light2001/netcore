@@ -13,15 +13,15 @@
 #### .netcore框架面试题
 
 第二题，asp dot core有哪些好的功能？
-1.是依赖注入。
-2.是日志系统架构。
-3.是引入了一个跨平台的网络服务器，kestrel。可以没有iis, apache和nginx就可以单独运行。
-4.是可以使用命令行创建应用。
-5.是使用APP settings json file来配置工程。
-6.是使用start up来注册服务。
-7.是更好的支持异步编程。
-8.是支持web socket和signal IR。
-9.是对于跨网站的请求的预防和保护机制。
+1. 是依赖注入。
+2. 是日志系统架构。
+3. 是引入了一个跨平台的网络服务器，kestrel。可以没有iis, apache和nginx就可以单独运行。
+4. 是可以使用命令行创建应用。
+5. 是使用APP settings json file来配置工程。
+6. 是使用start up来注册服务。
+7. 是更好的支持异步编程。
+8. 是支持web socket和signal IR。
+9. 是对于跨网站的请求的预防和保护机制。
 
 
 
